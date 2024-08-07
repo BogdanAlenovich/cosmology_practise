@@ -1,0 +1,14 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{ \small Введение}{1}{section*.1}%
+\contentsline {section}{ \small Теория}{1}{section*.2}%
+\contentsline {subsection}{ \small Метрики многообразий}{1}{section*.3}%
+\contentsline {subsection}{ \small Метрика FRW}{2}{equation.0.13}%
+\contentsline {subsection}{ \small Постоянная Хаббла}{2}{equation.0.15}%
+\contentsline {subsection}{ \small Космологическое красное смещение}{3}{equation.0.19}%
+\contentsline {subsection}{ \small Приближение идеальной жидкости}{4}{equation.0.27}%
+\contentsline {subsection}{ \small Уравнение непрерывности}{5}{equation.0.42}%
+\contentsline {subsection}{ \small Уравнения Фридмана}{6}{equation.0.56}%
+\contentsline {subsection}{ \small Космологические решения}{7}{equation.0.66}%
+\contentsline {section}{ \small Практика}{9}{equation.0.74}%
+\contentsline {subsection}{ \small Задача 1}{9}{section*.12}%
+\contentsline {subsection}{ \small Задача 2}{11}{figure.caption.16}%
